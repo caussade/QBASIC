@@ -1,7 +1,7 @@
-<B>Readme File</B>
+# QBASIC
 
 By Armando Caussade, http://armandocaussade.org/<BR>
-Version 1.0.  January 20, 2020.
+Readme file.  Version 1.0.  January 20, 2020.
 
 -----
 
